@@ -1,1 +1,19 @@
-/* Agrega aqui tu CSS */
+.lenguaje {
+    border: solid #ff6600;
+    margin-right: 750px;
+}
+.emprendimiento {
+    margin-right: 750px;
+    border: solid #ff6600;
+    
+}
+.aprender {
+    margin-right: 750px;
+    border: solid #ff6600;
+    
+}
+p {
+    font-size: 17px;
+    padding: 10px;
+    
+}
