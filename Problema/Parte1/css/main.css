@@ -1,1 +1,19 @@
-/* Agrega aqui tu CSS */
+div {
+    background-color: white;
+    border: solid #ff6600;
+    border-width: 3.5px;
+    margin-right: 750px;
+    margin-bottom: 500px;
+    
+    
+}
+p {
+    font-family: serif;
+    text-align:left;
+    font-size: 17px;
+    
+}
+p, h3 {
+    padding: 3px 5px 5px 10px;
+    
+}
