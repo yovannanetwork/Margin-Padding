@@ -1,1 +1,25 @@
-/* Agrega aqui tu CSS */
+.primero {
+    background-color: white;
+    border: solid #ff6600;
+    margin-right: 750px;
+    padding: 10px 5px 0px 10px;
+    
+}
+.segundo {
+    border: solid #ff6600;
+    margin-right: 750px;
+    padding: 10px 5px 0px 10px;
+    margin-top: 15px;
+}
+.tercero {
+    margin-right: 750px;
+    margin-top: 15px;
+    border: solid #ff6600;
+    padding: 10px;
+    border-bottom-color: white;
+}
+p {
+    font-family: serif;
+    font-size: 17px;
+    
+}
