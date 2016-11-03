@@ -1,14 +1,14 @@
 .lenguaje {
     border: solid #ff6600;
-    margin-right: 750px;
+    margin-right: 1000px;
 }
 .emprendimiento {
-    margin-right: 750px;
+    margin-right: 1000px;
     border: solid #ff6600;
     
 }
 .aprender {
-    margin-right: 750px;
+    margin-right: 1000px;
     border: solid #ff6600;
     
 }
@@ -16,4 +16,7 @@ p {
     font-size: 17px;
     padding: 10px;
     
+}
+h3{
+    padding: 10px;
 }
